@@ -1,0 +1,3 @@
+[submodule "psmedia"]
+	path = psmedia
+	url = git@github.com:modulo7x/psmedia.git
